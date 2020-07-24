@@ -5,6 +5,9 @@ Hi there 👋! I'm Gerin, a software developer currently working as an Android E
 ### Interests
 - I :heart: all things Android
 
+### Recent projects
+- Check out my latest work - NewsCast, an android app built to show off android best practices: https://gerin98.github.io/NewsCast/
+
 ### Get in Touch
 - Linkedin: https://www.linkedin.com/in/gerin-amalaraj/
 
