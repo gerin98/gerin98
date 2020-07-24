@@ -1,9 +1,15 @@
 ### Gerin Amalaraj - @gerin98
 
-Hi there 👋! I'm Gerin, a software developer currently working as an Android Engineer @ Flipp.
+Hi there 👋! I'm Gerin, a software developer located in Toronto currently working as an Android Engineer @ Flipp.
 
 ### Interests
 - I :heart: all things Android
+- Diehard:basketball: fan. We the North!
+- Love listening to and exploring new :musical_note:
+
+### Dislikes
+- The ending of Game of Thrones :disappointed:
+- Covid-19
 
 ### Recent projects
 - Check out my latest work - NewsCast, an android app built to show off android best practices: https://gerin98.github.io/NewsCast/
