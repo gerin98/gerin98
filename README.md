@@ -6,7 +6,7 @@ Hi there 👋! I'm Gerin, a software developer located in Toronto currently work
 - I :heart: all things Android
 - Diehard:basketball: fan. We the North!
 - Love listening to and exploring new :musical_note:
-- One Piece! If you haven't read it, do it now. It's sooo good!
+- One Piece :womans_hat:! If you haven't read it, do it now. It's sooo good!
 
 ### Dislikes
 - The ending of Game of Thrones :disappointed:
