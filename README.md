@@ -1,4 +1,12 @@
-### Hi there 👋
+### Gerin Amalaraj - @gerin98
+
+Hi there 👋! I'm Gerin, a software developer currently working as an Android Engineer @ Flipp.
+
+### Interests
+- I :heart: all things Android
+
+### Get in Touch
+- Linkedin: https://www.linkedin.com/in/gerin-amalaraj/
 
 <!--
 **gerin98/gerin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
