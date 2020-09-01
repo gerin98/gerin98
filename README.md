@@ -14,9 +14,12 @@ Hi there 👋! I'm Gerin, a software developer located in Toronto currently work
 
 ### Recent projects
 - Check out my latest work - NewsCast, an android app built to show off android best practices: https://gerin98.github.io/NewsCast/
+- An android github client for finding users and their repos: https://gerin98.github.io/androidGitClient/
+- And demos of some other projects at: https://www.youtube.com/user/gerinamalaraj/videos
 
 ### Get in Touch
 - Linkedin: https://www.linkedin.com/in/gerin-amalaraj/
+- Email: gerin.amalaraj6@gmail.com
 
 <!--
 **gerin98/gerin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
