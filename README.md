@@ -1,6 +1,6 @@
 ### Gerin Amalaraj - @gerin98
 
-Hi there 👋! I'm Gerin, a software developer located in Toronto currently working as an Android Engineer @ [Flipp](https://github.com/wishabi).
+Hi there 👋! I'm Gerin, a software developer located in Toronto currently working as an Android Engineer @ [Wealthfront](https://github.com/wealthfront).
 
 ### Interests
 - I :heart: all things Android
